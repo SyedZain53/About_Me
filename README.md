@@ -1,4 +1,4 @@
-Hi, I’m Syed Zain 👋 
+Hi, I’m Syed Zain ul Abedeen @SzuA_1 👋 
 <br>
 💻 I enjoy Competitive Programming in C 
 <br>
